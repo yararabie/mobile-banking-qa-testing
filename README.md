@@ -41,7 +41,7 @@ Each module was tested across the following categories:
 
 | Severity | Count |
 |---|---|
-| Critical | 4 |
+| Critical | 3 |
 | High | 16 |
 | Medium | 21 |
 | Low | 9 |
